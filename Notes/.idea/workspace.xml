@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c6446fc2-b1c6-42bc-b3a2-7e7330783dd8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YALPsGU8XJ5P5H4hUBD6LdDArI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\2020\DataStructure\Notes\src\Extra" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Matrix">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Extra.Demo" />
+      <module name="Notes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Review.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Driver (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Review.Driver" />
+      <module name="Notes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Review.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assignment1.Matrix" />
+      <module name="Notes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Assignment1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PostfixInfix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assignment1.PostfixInfix" />
+      <module name="Notes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Assignment1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assignment1.Sorting" />
+      <module name="Notes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Assignment1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Matrix" />
+        <item itemvalue="Application.Driver (1)" />
+        <item itemvalue="Application.Sorting" />
+        <item itemvalue="Application.PostfixInfix" />
+        <item itemvalue="Application.Demo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6446fc2-b1c6-42bc-b3a2-7e7330783dd8" name="Default Changelist" comment="" />
+      <created>1582380430926</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582380430926</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1582412572135">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1582412572135" />
+    <state x="287" y="0" key="FileDocumentManager.FileCacheConflict" timestamp="1582649048851">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="287" y="0" key="FileDocumentManager.FileCacheConflict/0.0.1920.1040@0.0.1920.1040" timestamp="1582649048851" />
+    <state width="1877" height="182" key="GridCell.Tab.0.bottom" timestamp="1582687404569">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="182" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582687404569" />
+    <state width="1877" height="182" key="GridCell.Tab.0.center" timestamp="1582687404569">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="182" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582687404569" />
+    <state width="1877" height="182" key="GridCell.Tab.0.left" timestamp="1582687404569">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="182" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582687404569" />
+    <state width="1877" height="182" key="GridCell.Tab.0.right" timestamp="1582687404569">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="182" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582687404569" />
+    <state x="625" y="218" key="NewModule_or_Project.wizard" timestamp="1582382801972">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="625" y="218" key="NewModule_or_Project.wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1582382801972" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1582468298895">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1582468298895" />
+    <state x="656" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1582679689094">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582679689094" />
+  </component>
+</project>
